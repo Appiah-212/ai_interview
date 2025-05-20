@@ -5,7 +5,7 @@ import React from 'react'
 enum CallStatus {
     INACTIVE ='INACTIVE',
     CONNECTING = 'CONNECTING',
-    ACTIVE ='Active'
+    ACTIVE ='Active',
     FINISHED = 'FINISHED'
 }
 
